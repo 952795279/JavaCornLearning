@@ -1,2 +1,2 @@
 # JavaCornLearning
-学习Java核心
+学习Java核心 - 持续的java学习
